@@ -13,17 +13,23 @@
 
 <br>
 
-## Programming Languages
+<h3 align="center"> Programming Languages </h3>
 
  - Python
  - Javascript
  - C#
  - PHP
  
-## Frameworks
+<h3 align="center"> Frameworks </h3>
 
 - Django
 - Vue
 - Flask
 - FastAPI
 - Laravel
+
+<h3 align="center"> Social Media </h3>
+ - [instagram](https://www.instagram.com/alifareed.prj/)
+ - [facebook](https://www.facebook.com/topsntops.channel)
+ - [linkedin](https://www.linkedin.com/in/tsaqif-maulana-498a3124a/)
+
