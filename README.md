@@ -27,9 +27,3 @@
 - Flask
 - FastAPI
 - Laravel
-
-<h3 align="center"> Social Media </h3>
- - [instagram](https://www.instagram.com/alifareed.prj/)
- - [facebook](https://www.facebook.com/topsntops.channel)
- - [linkedin](https://www.linkedin.com/in/tsaqif-maulana-498a3124a/)
-
