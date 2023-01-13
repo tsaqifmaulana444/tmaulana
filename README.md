@@ -1,4 +1,4 @@
-<h2 align="center"> Welcome! Selamat Datang! Bienvenue! </h2>
+<h1 align="center"> Welcome! Selamat Datang! Bienvenue! </h1>
 <h3> I'am Maulana, i like Python </h3>
 
 <h3 align="left">About Me</h3>
@@ -13,14 +13,14 @@
 
 <br>
 
-<h3 align="center"> Programming Languages </h3>
+<h2 align="center"> Programming Languages </h2>
 
  - Python
  - Javascript
  - C#
  - PHP
  
-<h3 align="center"> Frameworks </h3>
+<h2 align="center"> Frameworks </h2>
 
 - Django
 - Vue
