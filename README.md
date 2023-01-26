@@ -23,7 +23,6 @@
 <h2 align="center"> Frameworks </h2>
 
 - Django
-- Vue
 - Flask
 - FastAPI
 - Laravel
