@@ -17,12 +17,9 @@
 
  - Python
  - Javascript
- - C#
- - PHP
- 
+
 <h2 align="center"> Frameworks </h2>
 
 - Django
 - Flask
 - FastAPI
-- Laravel
