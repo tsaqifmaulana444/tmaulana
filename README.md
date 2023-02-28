@@ -1,5 +1,5 @@
 <h1 align="center"> Welcome! Selamat Datang! Bienvenue! </h1>
-<h3> I'm Maulana, i like Python </h3>
+<h3> I'm Maulana, I like Python </h3>
 
 <h3 align="left">About Me</h3>
 
