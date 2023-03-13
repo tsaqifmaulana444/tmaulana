@@ -7,7 +7,7 @@
 
 - Interested at python programming language
 
-- Like to learn new things
+- Love to learn new things
 
 - Able to do teamwork
 
@@ -23,3 +23,4 @@
 - Django
 - Flask
 - FastAPI
+- NodeJS
