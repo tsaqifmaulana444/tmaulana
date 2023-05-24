@@ -19,9 +19,9 @@
  - Javascript
  - Dart
 
-<h2 align="center"> Frameworks </h2>
+<h2 align="center"> Frameworks & Libraries </h2>
 
-- Flask
+- Pandas, Matplotlib, Seaborn
 - FastAPI
 - NodeJS
 - Flutter
