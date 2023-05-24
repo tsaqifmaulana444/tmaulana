@@ -7,7 +7,7 @@
 
 - Interested at python programming language
 
-- Love to learn new things
+- Like to learn new things
 
 - Able to do teamwork
 
@@ -17,10 +17,11 @@
 
  - Python
  - Javascript
+ - Dart
 
 <h2 align="center"> Frameworks </h2>
 
-- Django
 - Flask
 - FastAPI
 - NodeJS
+- Flutter
