@@ -22,6 +22,6 @@
 <h2 align="center"> Frameworks & Libraries </h2>
 
 - Pandas, Matplotlib, Seaborn
-- FastAPI
+- Laravel
 - NodeJS
 - Flutter
