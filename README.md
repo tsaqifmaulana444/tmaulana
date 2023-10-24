@@ -1,7 +1,7 @@
 <img alt="GitHub followers" src="https://img.shields.io/github/followers/tsaqifmaulana444?style=social"> &nbsp;&nbsp; <img alt="GitHub User's stars" src="https://img.shields.io/github/stars/tsaqifmaulana444?style=social"> &nbsp;&nbsp;
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=%2338C2FF&size=50&center=true&vCenter=true&height=60&width=600&lines=Backend+Developer;+ML+Enthusiast;Mobile+Developer" alt="Title"></img>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=%2338C2FF&size=50&center=true&vCenter=true&height=60&width=600&lines=Fullstack+Developer;+ML+Enthusiast;Mobile+Developer" alt="Title"></img>
 </div>
 
 
@@ -53,4 +53,4 @@
 
 Credit: [tienhuynh-tn](https://github.com/tienhuynh-tn)
 
-Last Edited on: 09/06/2023
+Last Edited on: 24/10/2023
