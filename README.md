@@ -11,7 +11,7 @@
 - :school: I'm currently 3rd year student at **SMK Taruna Bhakti - Depok**
 - :books: My major is **Software Engineering**
 - :earth_asia: I'm living now in **Depok - Indonesia**
-- :sweat_smile: I'm a newbie in coding, know Python, Javascript, and Dart language. Now I'm focus on learning Backend Web Development and Data Science Enginering.
+- :sweat_smile: I'm a newbie in coding, know Python, Javascript, Golang and Dart language. Now I'm focus on learning Backend Web Development and Data Science Enginering.
 - :monocle_face: I'm interested in coding, AI, and new technology
 - :sunglasses: My quote is ***"Do What You Love As Far It's Good."*** 
 
@@ -53,4 +53,4 @@
 
 Credit: [tienhuynh-tn](https://github.com/tienhuynh-tn)
 
-Last Edited on: 24/10/2023
+Last Edited on: 29/10/2023
