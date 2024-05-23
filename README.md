@@ -8,10 +8,10 @@
 ## <img src="https://raw.githubusercontent.com/nixin72/nixin72/master/wave.gif" width="50px"></img> About Me
 
 - :credit_card: My name is **Tsaqif Maulana** 
-- :school: I'm currently 3rd year student at **SMK Taruna Bhakti - Depok**
+- :school: I'm a graduated student from **SMK Taruna Bhakti - Depok**
 - :books: My major is **Software Engineering**
 - :earth_asia: I'm living now in **Indonesia**
-- :sweat_smile: I'm a newbie in coding, know Python, Javascript, Golang and Dart language. Now I'm focus on learning Backend Web Development and Data Science Enginering.
+- :sweat_smile: I'm a newbie in coding, know Python, Javascript, Golang, PHP and Typescript language. Now I'm focus on learning Backend Web Development and Cyber Security.
 - :monocle_face: I'm interested in coding, AI, and new technology
 - :sunglasses: My quote is ***"Do What You Love As Far It's Good."*** 
 
