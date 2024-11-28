@@ -8,7 +8,7 @@
 ## <img src="https://raw.githubusercontent.com/nixin72/nixin72/master/wave.gif" width="50px"></img> About Me
 
 - :credit_card: My name is **Maulana** 
-- :school: Currently taking undergraduate at Bengkulu University**
+- :school: Currently taking undergraduate at **Bengkulu University**
 - :books: My major is **Physics**
 - :earth_asia: I'm living now in **Indonesia**
 - :sweat_smile: I also have experience in coding, know Python, Javascript, Golang, PHP and Typescript language. Now I'm focus on learning Backend Web Development and Cyber Security.
